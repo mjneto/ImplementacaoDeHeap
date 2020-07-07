@@ -1,0 +1,10 @@
+Esse código foi feito para responder as seguintes perguntas:
+  - Inicializar um árvore com 10 valores aleatórios (aqui feitos com vetores);
+  - Montar um heap ("se P é um nó pai de C, então a chave (o valor) de P é maior que ou igual a (em uma heap máxima) ou menor que ou igual a (em uma heap mínima) chave de C" - Wikipédia) a partir dos valores
+  - Dar opções de:
+    * Visulizar a árvore
+    * Inserir novos nós (e balancear)
+    * Remover o nó de maior prioridade (e balancear)
+    * Aplicar o algoritmo de heapsort ("...rearranja os elementos de um vetor v[1 . . n] de modo que eles fiquem em ordem crescente" - Paulo Feofiloff - USP)
+    
+PS: Como é um código antigo, tentei explicar o fundamental já que não tenho mais acesso ao trabalho, apenas esse código
